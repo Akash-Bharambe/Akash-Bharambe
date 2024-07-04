@@ -89,7 +89,7 @@ So, you're here to check if I actually know something? Well, here's a bunch of l
 
 ###
 
-<img src="https://raw.githubusercontent.com/Akash-Bharambe/Akash-Bharambe/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 ### 
 
