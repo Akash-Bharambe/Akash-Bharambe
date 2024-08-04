@@ -1,17 +1,11 @@
+<h3 align="center">Languages and Tools</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/bharambe-akash-eknath-0a7619200/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/XYZ/linkedin.gif" width="52" height="40" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/AakashBharambe" target="_blank">
-    <img src="https://user-images.githubusercontent.com/XYZ/twitter.gif" width="52" height="40" alt="Twitter" />
-  </a>
-  <a href="mailto:aakashbharambe100@gmail.com" target="_blank">
-    <img src="https://user-images.githubusercontent.com/XYZ/gmail.gif" width="52" height="40" alt="Gmail" />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=8411840325" target="_blank">
-    <img src="https://user-images.githubusercontent.com/XYZ/whatsapp.gif" width="52" height="40" alt="WhatsApp" />
-  </a>
-  <a href="https://www.instagram.com/_.sonuu._/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/XYZ/instagram.gif" width="52" height="40" alt="Instagram" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 </p>
