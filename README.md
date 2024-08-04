@@ -18,7 +18,7 @@
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" />
     </a>
     <a href="mailto:aakashbharambe100@gmail.com" target="_blank">
-        <img src="https://github.com/Akash-Bharambe/Akash-Bharambe/blob/main/assets/gmail.gif" width="52" height="40"/>
+        <img src="https://github.com/Akash-Bharambe/Akash-Bharambe/blob/main/assets/gmail.gif" width="52" height="52"/>
     </a>
     <a href="https://api.whatsapp.com/send?phone=8411840325" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40"/>
