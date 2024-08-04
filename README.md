@@ -12,19 +12,19 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/bharambe-akash-eknath-0a7619200/" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"/>
+        <img src="https://github.com/Akash-Bharambe/Akash-Bharambe/blob/main/assets/linkedin" width="52" height="52"/>
     </a>
     <a href="https://x.com/AakashBharambe" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" />
+        <img src="https://github.com/Akash-Bharambe/Akash-Bharambe/blob/main/assets/twitter" width="52" height="52" />
     </a>
     <a href="mailto:aakashbharambe100@gmail.com" target="_blank">
         <img src="https://github.com/Akash-Bharambe/Akash-Bharambe/blob/main/assets/gmail.gif" width="52" height="52"/>
     </a>
     <a href="https://api.whatsapp.com/send?phone=8411840325" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40"/>
+        <img src="https://github.com/Akash-Bharambe/Akash-Bharambe/blob/main/assets/whatsapp" width="52" height="52"/>
     </a>
     <a href="https://www.instagram.com/_.sonuu._/" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" />
+        <img src="https://github.com/Akash-Bharambe/Akash-Bharambe/blob/main/assets/instagram.gif" width="52" height="52" />
     </a>
 </p>
 
