@@ -24,7 +24,7 @@
         <img src="https://github.com/Akash-Bharambe/Akash-Bharambe/blob/main/assets/whatsapp.gif" width="52" height="52"/>
     </a>
     <a href="https://www.instagram.com/_.sonuu._/" target="_blank">
-        <img src="https://github.com/Akash-Bharambe/Akash-Bharambe/blob/main/assets/instagram1.gif" width="52" height="52" />
+        <img src="https://github.com/Akash-Bharambe/Akash-Bharambe/blob/main/assets/instagram.gif" width="52" height="52" />
     </a>
 </p>
 
