@@ -1,6 +1,8 @@
 
 
-### Hi there! 👋 I'm Akash, and yes, I'm *that* good.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akash+Bharambe!;" />
+</h1>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akash-Bharambe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -89,7 +91,7 @@ So, you're here to check if I actually know something? Well, here's a bunch of l
 
 ###
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Akash-Bharambe/Akash-Bharambe/output/github-contribution-grid-snake.svg" />
 
 ### 
 
