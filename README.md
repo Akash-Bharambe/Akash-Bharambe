@@ -34,7 +34,7 @@
 
 ### Languages and Tools I Pretend to Know
 
-So, you're here to check if I actually know something? Well, here's a bunch of logos to make you think I'm a tech wizard.
+So, you're here to check if I actually know something? Well, here's a bunch of logos to make you think I'm a tech wizard 🧙‍♂️.
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
